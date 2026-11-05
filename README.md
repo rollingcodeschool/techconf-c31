@@ -8,15 +8,18 @@ Puedes explorar el sitio desplegado en producción aquí: [techconf-c30](https:/
 
 ## 🛠️ Herramientas utilizadas
 
-- HTML5
-- CSS3
-- [Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 
 ## 📖 Pasos para probar el proyecto
 
 En una terminal realiza los siguientes pasos para clonar y probar el proyecto:
 
-1. Clonar el repositorio: ```git clone https://github.com/rollingcodeschool/techconf-c31.git```
+1. Clonar el repositorio: 
+
+```bash
+git clone https://github.com/rollingcodeschool/techconf-c31.git
+```
+
 2. Ingresa a tu editor preferido, por ej: vscode y ejecute el index.html
 
 ## 🧑🏻‍💻 Autores
